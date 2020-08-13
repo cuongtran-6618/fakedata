@@ -1,0 +1,7 @@
+{
+	"comments": [
+		{ "id": 1, "username": "Anna", "comment": "Anna comment" },
+		{ "id": 2, "username": "Susan", "comment": "Susan comment" },
+		{ "id": 3, "username": "Bob", "comment": "Bob comment" }
+	]
+}
